@@ -81,9 +81,7 @@ function create_pu()
 	}
 
     var origin = rChoice([
-                            "https://amzn.to/3tStUuF",
-                            "https://amzn.to/3F6eidC",
-                            "https://bit.ly/3UHyCqM",
+                        "https://www.amazon.com/b?_encoding=UTF8&tag=reza0f6-20&linkCode=ur2&linkId=7e21f3befd492191ba28b22189ff8c9a&camp=1789&creative=9325&node=13900871"
                         ]);
 
         if(window.pu.type === 'popup'){
