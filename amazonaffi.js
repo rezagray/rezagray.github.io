@@ -81,7 +81,9 @@ function create_pu()
 	}
 
     var origin = rChoice([
-                        "https://www.amazon.com/b?_encoding=UTF8&tag=reza0f6-20&linkCode=ur2&linkId=7e21f3befd492191ba28b22189ff8c9a&camp=1789&creative=9325&node=13900871"
+                        "https://www.amazon.com/b?_encoding=UTF8&tag=reza0f6-20&linkCode=ur2&linkId=7e21f3befd492191ba28b22189ff8c9a&camp=1789&creative=9325&node=13900871",
+	    "https://shope.ee/2AoWaLCaOv"
+
                         ]);
 
         if(window.pu.type === 'popup'){
