@@ -81,7 +81,7 @@ function create_pu()
 	}
 
     var origin = rChoice([
-                        "https://shope.ee/8f20V3CukI"
+                        "https://mylnks.xyz/liaZH"
                         ]);
 
         if(window.pu.type === 'popup'){
