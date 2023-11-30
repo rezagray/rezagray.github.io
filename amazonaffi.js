@@ -81,7 +81,9 @@ function create_pu()
 	}
 
     var origin = rChoice([
-                        "https://www.amazon.com/b?_encoding=UTF8&tag=reza0f6-20&linkCode=ur2&linkId=7e24415a5fd179e8c69f38540157adab&camp=1789&creative=9325&node=172456"
+                        "https://amzn.to/3GHrG7P",
+	    "https://amzn.to/46HutrU",
+	    "https://www.amazon.com/b?_encoding=UTF8&tag=reza0f6-20&linkCode=ur2&linkId=7e24415a5fd179e8c69f38540157adab&camp=1789&creative=9325&node=172456",
 
                         ]);
 
