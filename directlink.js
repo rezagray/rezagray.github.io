@@ -82,7 +82,7 @@ function create_pu()
 
     var origin = rChoice([
 	    "https://www.toprevenuegate.com/q4ms9s6mt3?key=86fc2ec73225843192e6d91ebc298f82",
-        "https://www.toprevenuegate.com/ep6dhqv2p6?key=c50e70220f8c68a953b9a7773ef01766",
+        "https://www.toprevenuegate.com/u1hj4vda39?key=022c46f1c76927f84798d2916cc6ace2",
                         ]);
 
         if(window.pu.type === 'popup'){
