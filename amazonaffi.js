@@ -81,10 +81,8 @@ function create_pu()
 	}
 
     var origin = rChoice([
-	    "https://www.toprevenuegate.com/q4ms9s6mt3?key=86fc2ec73225843192e6d91ebc298f82",
-        "https://www.toprevenuegate.com/q4ms9s6mt3?key=86fc2ec73225843192e6d91ebc298f82",
-	    "https://www.toprevenuegate.com/q4ms9s6mt3?key=86fc2ec73225843192e6d91ebc298f82",
-	    "https://www.toprevenuegate.com/q4ms9s6mt3?key=86fc2ec73225843192e6d91ebc298f82",
+	    "https://www.amazon.com/b?_encoding=UTF8&tag=reza0f6-20&linkCode=ur2&linkId=419e5c01169c2ef5351fe51d7bce334f&camp=1789&creative=9325&node=193870011",
+        "https://amzn.to/42EmhZk",
                         ]);
 
         if(window.pu.type === 'popup'){
